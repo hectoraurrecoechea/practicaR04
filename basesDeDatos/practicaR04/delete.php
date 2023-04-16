@@ -1,0 +1,1 @@
+DELETE FROM tareas WHERE id_tarea='1';
